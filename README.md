@@ -1,2 +1,2 @@
-# Apuntes-lab01
+# Lab1
 Apuntes de Laboratorio I
